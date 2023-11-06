@@ -3,4 +3,4 @@
 /video
 /ui/*.jpg
 /ui/*.png
-/ui/_pycache_
+ui/__pycache__/*.pyc
