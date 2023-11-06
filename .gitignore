@@ -1,6 +1,5 @@
 /.vscode
 /images
 /video
-/ui/*.jpg
 /ui/*.png
 ui/__pycache__/*.pyc
